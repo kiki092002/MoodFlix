@@ -1,2 +1,2 @@
 # MoodFlix
-- Recommend movies based on user emotion.
+: suggests movies or shows based on your current mood.
